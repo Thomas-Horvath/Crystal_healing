@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Fejfájás",
+        "crystals": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Emésztési problémák",
+        "crystals": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ízületi fájdalom",
+        "crystals": [
+            1,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Fáradtság",
+        "crystals": [
+            3
+        ]
+    }
+]

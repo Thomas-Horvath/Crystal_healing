@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ametiszt",
+        "description": "Segít a lelki egyensúly megteremtésében."
+    },
+    {
+        "id": 2,
+        "name": "Rózsakvarc",
+        "description": "Megnyitja a szívet a szeretet felé."
+    },
+    {
+        "id": 3,
+        "name": "Citrin",
+        "description": "Fokozza a motivációt és az energiát."
+    },
+    {
+        "id": 4,
+        "name": "Tigrisszem",
+        "description": "Erőt és önbizalmat ad."
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Szomorúság",
+        "crystals": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Stressz",
+        "crystals": [
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Szorongás",
+        "crystals": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Depresszió",
+        "crystals": [
+            1,
+            3
+        ]
+    }
+]
