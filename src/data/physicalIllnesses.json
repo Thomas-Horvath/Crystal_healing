@@ -2,32 +2,201 @@
     {
         "id": 1,
         "name": "Fejfájás",
+        "description": "Gyakori fájdalom a fej különböző részein, amely lehet tompa vagy lüktető.",
         "crystals": [
-            1,
-            3
+            7,
+            18,
+            25
         ]
     },
     {
         "id": 2,
-        "name": "Emésztési problémák",
+        "name": "Izomfájdalom",
+        "description": "Fájdalom és merevség az izmokban, gyakran fizikai aktivitás vagy stressz után.",
         "crystals": [
-            2,
-            4
+            4,
+            21,
+            8
         ]
     },
     {
         "id": 3,
-        "name": "Ízületi fájdalom",
+        "name": "Ízületi gyulladás",
+        "description": "Az ízületek gyulladásos betegsége, amely fájdalmat és merevséget okoz.",
         "crystals": [
-            1,
-            4
+            15,
+            10,
+            26
         ]
     },
     {
         "id": 4,
-        "name": "Fáradtság",
+        "name": "Alvászavar",
+        "description": "Problémák az elalvással vagy az alvás fenntartásával, gyakran stressz vagy szorongás miatt.",
         "crystals": [
-            3
+            5,
+            12,
+            20
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Magas vérnyomás",
+        "description": "A vérnyomás tartósan magas szintje, amely növeli a szívbetegségek kockázatát.",
+        "crystals": [
+            9,
+            2,
+            22
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Allergia",
+        "description": "Az immunrendszer túlzott reakciója egy adott anyagra, amely tüneteket okoz, mint a tüsszögés, viszketés vagy kiütések.",
+        "crystals": [
+            7,
+            19,
+            18
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Gyomorfekély",
+        "description": "Seb a gyomor bélésén, amely fájdalmat és emésztési problémákat okoz.",
+        "crystals": [
+            16,
+            22,
+            27
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Migrén",
+        "description": "Súlyos fejfájás, amely gyakran jár émelygéssel, hányással és fényérzékenységgel.",
+        "crystals": [
+            23,
+            1,
+            19
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Emésztési zavar",
+        "description": "Gyomorpanaszok, amelyek puffadást, hányingert és gyomorfájást okoznak.",
+        "crystals": [
+            6,
+            20,
+            24
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Krónikus fáradtság",
+        "description": "Hosszan tartó kimerültség, amely nem múlik el pihenéssel, és jelentősen rontja az életminőséget.",
+        "crystals": [
+            3,
+            10,
+            11
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Hátfájás",
+        "description": "Fájdalom a hát különböző részein, amely lehet akut vagy krónikus.",
+        "crystals": [
+            8,
+            4,
+            21
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Asztma",
+        "description": "Krónikus légzőszervi betegség, amely nehézlégzést, köhögést és zihálást okoz.",
+        "crystals": [
+            15,
+            9,
+            28
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Menstruációs fájdalom",
+        "description": "Alhasi görcsök és fájdalom, amelyek a menstruáció során jelentkeznek.",
+        "crystals": [
+            26,
+            14,
+            2
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Bőrproblémák",
+        "description": "Bőrgyulladások, pattanások vagy irritációk, amelyek a bőr állapotának romlását okozzák.",
+        "crystals": [
+            7,
+            11,
+            27
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Immunrendszer erősítése",
+        "description": "Az immunrendszer támogatása a betegségek elleni küzdelemben és a fertőzések megelőzésében.",
+        "crystals": [
+            22,
+            16,
+            17
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Szívbetegségek",
+        "description": "A szív- és érrendszeri betegségek, amelyek a szív működésének romlását okozhatják.",
+        "crystals": [
+            2,
+            14,
+            29
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Depresszió",
+        "description": "Hosszan tartó szomorúság és érdektelenség, amely befolyásolja a mindennapi életet.",
+        "crystals": [
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Memóriazavarok",
+        "description": "Nehezen koncentrál, és elfelejti a dolgokat, ami befolyásolja a mindennapi életet.",
+        "crystals": [
+            18,
+            13,
+            24
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Szembetegségek",
+        "description": "A szem állapotának romlása, ami látásproblémákat okoz.",
+        "crystals": [
+            5,
+            7,
+            23
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Légzőszervi betegségek",
+        "description": "Betegségek, amelyek nehezítik a légzést és károsítják a tüdőt.",
+        "crystals": [
+            12,
+            28,
+            20
         ]
     }
 ]

@@ -11,7 +11,7 @@ function Home() {
   const [illnessType, setIllnessType] = useState('physical');
 
   useEffect(() => {
-    const savedFilterState = localStorage.getItem('filterState');
+    const savedFilterState = sessionStorage.getItem('filterState');
     if (savedFilterState) {
       const { crystalId, type } = JSON.parse(savedFilterState);
       handleFilterChange(crystalId, type);
@@ -21,8 +21,8 @@ function Home() {
   const handleFilterChange = (crystalId, type) => {
     setSelectedCrystal(crystalId);
     setIllnessType(type);
-
-    localStorage.setItem('filterState', JSON.stringify({ crystalId, type }));
+    
+    sessionStorage.setItem('filterState', JSON.stringify({ crystalId, type }));
 
     const illnessData = type === 'physical' ? physicalIllnessesData : mentalIllnessesData;
     const filtered = illnessData.filter((illness) =>

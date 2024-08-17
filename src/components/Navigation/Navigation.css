@@ -1,0 +1,20 @@
+nav {
+    width: 100%;
+    background: var(--main);
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  
+  }
+  
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #f4f4f4;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+  }
+  

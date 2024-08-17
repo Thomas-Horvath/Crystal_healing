@@ -2,12 +2,13 @@ import React from 'react';
 import { useParams, useNavigate , useLocation } from 'react-router-dom';
 import physicalIllnessesData from '../../data/physicalIllnesses.json';
 import mentalIllnessesData from '../../data/mentalIllnesses.json';
+import './IllnessDetailes.css'
 
 function IllnessDetails() {
   const { id } = useParams();
   const navigate = useNavigate();
   const location = useLocation();
-  const previousPath = location.state?.fromFilter ? '/' : location.state?.form || '/physical-illnesses';
+  const previousPath = location.state?.fromFilter ? '/' : location.state?.from ;
   const type = location.state?.type;
 
   let illness;
@@ -24,8 +25,8 @@ function IllnessDetails() {
   return (
     <div>
       <h2>{illness.name}</h2>
-      <p>{illness.description}</p>
-      <button onClick={() => navigate(previousPath)}>Vissza</button>
+      <p className='description'>{illness.description}</p>
+      <button className='btn' onClick={() => navigate(previousPath)}>Vissza</button>
     </div>
   );
 }

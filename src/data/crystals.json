@@ -2,21 +2,241 @@
     {
         "id": 1,
         "name": "Ametiszt",
-        "description": "Segít a lelki egyensúly megteremtésében."
+        "description": "Segít a lelki egyensúly megteremtésében.",
+        "color": "Lila",
+        "hardness": [7],
+        "origin": "Brazília"
     },
     {
         "id": 2,
         "name": "Rózsakvarc",
-        "description": "Megnyitja a szívet a szeretet felé."
+        "description": "Megnyitja a szívet a szeretet felé.",
+        "color": "Rózsaszín",
+        "hardness": [7],
+        "origin": "Madagaszkár"
     },
     {
         "id": 3,
         "name": "Citrin",
-        "description": "Fokozza a motivációt és az energiát."
+        "description": "Fokozza a motivációt és az energiát.",
+        "color": "Sárga",
+        "hardness": [7],
+        "origin": "Spanyolország"
     },
     {
         "id": 4,
         "name": "Tigrisszem",
-        "description": "Erőt és önbizalmat ad."
+        "description": "Erőt és önbizalmat ad.",
+        "color": "Aranybarna",
+        "hardness": [7],
+        "origin": "Dél-Afrika"
+    },
+    {
+        "id": 5,
+        "name": "Akvamarin",
+        "description": "Segít a kommunikációban és önkifejezésben.",
+        "color": "Világoskék",
+        "hardness": [7.5],
+        "origin": "Pakisztán"
+    },
+    {
+        "id": 6,
+        "name": "Labradorit",
+        "description": "Fokozza az intuíciót és a spirituális tudatosságot.",
+        "color": "Irideszkáló szürke",
+        "hardness": [6, 6.5],
+        "origin": "Kanada"
+    },
+    {
+        "id": 7,
+        "name": "Hegyikristály",
+        "description": "Tisztítja és erősíti az energiamezőt.",
+        "color": "Átlátszó",
+        "hardness": [7],
+        "origin": "Brazília"
+    },
+    {
+        "id": 8,
+        "name": "Malachit",
+        "description": "Védelmet nyújt a negatív energiák ellen.",
+        "color": "Zöld",
+        "hardness": [3.5, 4],
+        "origin": "Kongó"
+    },
+    {
+        "id": 9,
+        "name": "Szodalit",
+        "description": "Nyugtatja az elmét és elősegíti a meditációt.",
+        "color": "Kék-fehér",
+        "hardness": [5.5, 6],
+        "origin": "Grönland"
+    },
+    {
+        "id": 10,
+        "name": "Aventurin",
+        "description": "Növeli a bátorságot és az önbizalmat.",
+        "color": "Zöld",
+        "hardness": [6.5, 7],
+        "origin": "India"
+    },
+    {
+        "id": 11,
+        "name": "Fluorit",
+        "description": "Segíti a koncentrációt és a tanulást.",
+        "color": "Többszínű",
+        "hardness": [4],
+        "origin": "Kína"
+    },
+    {
+        "id": 12,
+        "name": "Holdkő",
+        "description": "Elősegíti az érzelmi egyensúlyt.",
+        "color": "Krémes fehér",
+        "hardness": [6, 6.5],
+        "origin": "Srí Lanka"
+    },
+    {
+        "id": 13,
+        "name": "Onix",
+        "description": "Erőt és kitartást ad.",
+        "color": "Fekete",
+        "hardness": [7],
+        "origin": "Mexikó"
+    },
+    {
+        "id": 14,
+        "name": "Gránát",
+        "description": "Serkenti a szenvedélyt és a kreativitást.",
+        "color": "Vörös",
+        "hardness": [6.5, 7.5],
+        "origin": "India"
+    },
+    {
+        "id": 15,
+        "name": "Peridot",
+        "description": "Segíti a pozitív gondolkodást és a boldogságot.",
+        "color": "Zöld",
+        "hardness": [6.5, 7],
+        "origin": "USA"
+    },
+    {
+        "id": 16,
+        "name": "Turmalin",
+        "description": "Védelmet nyújt a negatív energiáktól.",
+        "color": "Többszínű",
+        "hardness": [7, 7.5],
+        "origin": "Brazília"
+    },
+    {
+        "id": 17,
+        "name": "Topáz",
+        "description": "Békét és nyugalmat hoz.",
+        "color": "Kék",
+        "hardness": [8],
+        "origin": "Oroszország"
+    },
+    {
+        "id": 18,
+        "name": "Kalcedon",
+        "description": "Harmonizálja a testet és a lelket.",
+        "color": "Kékes-fehér",
+        "hardness": [6, 7],
+        "origin": "Namíbia"
+    },
+    {
+        "id": 19,
+        "name": "Obszidián",
+        "description": "Segíti a belső erő felfedezését.",
+        "color": "Fekete",
+        "hardness": [5, 5.5],
+        "origin": "Mexikó"
+    },
+    {
+        "id": 20,
+        "name": "Larimar",
+        "description": "Nyugtató energiákat hoz és segít a stresszoldásban.",
+        "color": "Világoskék",
+        "hardness": [4.5, 5],
+        "origin": "Dominikai Köztársaság"
+    },
+    {
+        "id": 21,
+        "name": "Karneol",
+        "description": "Növeli a vitalitást és a kreativitást.",
+        "color": "Narancs",
+        "hardness": [6.5, 7],
+        "origin": "India"
+    },
+    {
+        "id": 22,
+        "name": "Jade",
+        "description": "Védelmet nyújt és békét hoz.",
+        "color": "Zöld",
+        "hardness": [6, 7],
+        "origin": "Kína"
+    },
+    {
+        "id": 23,
+        "name": "Lapis Lazuli",
+        "description": "Elősegíti a belső békét és a harmóniát.",
+        "color": "Királykék",
+        "hardness": [5, 6],
+        "origin": "Afganisztán"
+    },
+    {
+        "id": 24,
+        "name": "Mookait",
+        "description": "Erősíti a személyes erőt és a stabilitást.",
+        "color": "Sárga-piros",
+        "hardness": [6.5, 7],
+        "origin": "Ausztrália"
+    },
+    {
+        "id": 25,
+        "name": "Opál",
+        "description": "Növeli a kreativitást és az inspirációt.",
+        "color": "Irideszkáló",
+        "hardness": [5.5, 6.5],
+        "origin": "Ausztrália"
+    },
+    {
+        "id": 26,
+        "name": "Rodonit",
+        "description": "Segíti az érzelmi gyógyulást és a megbocsátást.",
+        "color": "Rózsaszín-fekete",
+        "hardness": [5.5, 6.5],
+        "origin": "Oroszország"
+    },
+    {
+        "id": 27,
+        "name": "Szerpentin",
+        "description": "Nyugtató hatású és segít a meditációban.",
+        "color": "Zöld",
+        "hardness": [2.5, 5.5],
+        "origin": "Olaszország"
+    },
+    {
+        "id": 28,
+        "name": "Szelenit",
+        "description": "Tisztítja és erősíti az aurát.",
+        "color": "Fehér",
+        "hardness": [2],
+        "origin": "Marokkó"
+    },
+    {
+        "id": 29,
+        "name": "Zafír",
+        "description": "Védelmet és bölcsességet hoz.",
+        "color": "Kék",
+        "hardness": [9],
+        "origin": "Thaiföld"
+    },
+    {
+        "id": 30,
+        "name": "Rubin",
+        "description": "Szenvedélyt és életerőt hoz.",
+        "color": "Vörös",
+        "hardness": [9],
+        "origin": "Mianmar"
     }
 ]
