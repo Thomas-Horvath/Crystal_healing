@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Crystal_healing/static/css/main.b1711b65.css",
-    "main.js": "/Crystal_healing/static/js/main.a4fe5bac.js",
+    "main.js": "/Crystal_healing/static/js/main.da2d6240.js",
+    "static/media/logo.png": "/Crystal_healing/static/media/logo.4b6ac044eb6aef2ab2ac.png",
     "index.html": "/Crystal_healing/index.html",
     "main.b1711b65.css.map": "/Crystal_healing/static/css/main.b1711b65.css.map",
-    "main.a4fe5bac.js.map": "/Crystal_healing/static/js/main.a4fe5bac.js.map"
+    "main.da2d6240.js.map": "/Crystal_healing/static/js/main.da2d6240.js.map"
   },
   "entrypoints": [
     "static/css/main.b1711b65.css",
-    "static/js/main.a4fe5bac.js"
+    "static/js/main.da2d6240.js"
   ]
 }
